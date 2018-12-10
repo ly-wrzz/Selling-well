@@ -1,0 +1,998 @@
+{
+    "status": 0, 
+    "data": {
+        "films": [
+            {
+                "filmId": 4403, 
+                "name": "中国蓝盔 ", 
+                "poster": "https://pic.maizuo.com/usr/movie/85478cb36f9be3d02919ac3552ee1327.jpg", 
+                "actors": [
+                    {
+                        "name": "徐洪浩", 
+                        "role": "杜峰  ", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7b62f24cc471d5fd164c2e38ae83d8dc.jpg"
+                    }, 
+                    {
+                        "name": "一龙 ", 
+                        "role": "大吴", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cbc588ef09f2ab8c0637d1256e7d48bc.jpg"
+                    }, 
+                    {
+                        "name": "彭士腾 ", 
+                        "role": "黄启典  ", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44691e475c1332e8e7e99cd7f265f31a.jpg"
+                    }, 
+                    {
+                        "name": "沈浩 ", 
+                        "role": " 王刚", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ae84b7ed5ec6c877dff44a39ce7b51d1.jpg"
+                    }, 
+                    {
+                        "name": "王韬", 
+                        "role": "姜山", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d08b685af1520c024b90667057b3f9b7.jpg"
+                    }
+                ], 
+                "director": "宁海强", 
+                "category": "剧情|动作|战争", 
+                "synopsis": "我国首部维和军事题材电影《中国蓝盔》讲述了当下中国维和部队官兵在非洲坚决执行习主席指示的“构建人类命运共同体”的大国方针、严格履行联合国赋予的使命，派出了以“兵王”杜峰为首的作战小组冒着生命危险，从恐怖分子手中救出联合国调查组，从而阻止了一场一触即发的战争，维护了难民营的生活秩序、保障了难民们的生活权益。但是年轻的战士也在这次行动中为了维护非洲的和平而献出了宝贵的生命……", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "汉语普通话", 
+                "videoId": "", 
+                "premiereAt": 1542931200, 
+                "timeType": 3, 
+                "runtime": 96, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4434, 
+                "name": "憨豆特工3 ", 
+                "poster": "https://pic.maizuo.com/usr/movie/fa4864c300d1d2e86c413fde6bebc157.jpg", 
+                "actors": [
+                    {
+                        "name": " 罗温·艾金森 ", 
+                        "role": "演员", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8ab9d2148d9504de25e43f8cd8008d7d.jpg"
+                    }, 
+                    {
+                        "name": " 欧嘉·柯瑞兰寇", 
+                        "role": "演员", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2a3061cb2c04ae4899ed7daea8eb9f46.jpg"
+                    }, 
+                    {
+                        "name": " 艾玛·汤普森", 
+                        "role": "演员", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7242b1c4eeb2008a0893dc3e3e3c9e05.jpg"
+                    }, 
+                    {
+                        "name": " 本·米勒", 
+                        "role": "演员", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e87db29338251667b7315ce3ca7857cb.jpg"
+                    }, 
+                    {
+                        "name": " 杰克·莱西", 
+                        "role": "演员", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5e9fdc5b02c49221e6ae019fb1939278.jpg"
+                    }
+                ], 
+                "director": "大卫·科尔", 
+                "category": "喜剧|动作|冒险", 
+                "synopsis": "《憨豆特工3》是憨豆特工系列喜剧的第三部作品，罗温·艾金森再度回归，继续扮演大受欢迎的阴差阳错入行的特工强尼。这次的新冒险由一场黑客攻击拉开序幕，所有在职的特工都被暴露了身份，使得强尼成为情报处最后的救命稻草。因此获得“返聘”的强尼第一个出勤任务便是要找出这位超强 黑客 。木头木脑、技能堪忧的强尼将如何应对现代科技的挑战，成功完成任务呢？", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "法国   美国  英国", 
+                "language": "英语", 
+                "videoId": "XMzU0NDc4MjU1Ng==", 
+                "premiereAt": 1542931200, 
+                "timeType": 3, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4447, 
+                "name": "无敌破坏王2：大闹互联网", 
+                "poster": "https://pic.maizuo.com/usr/movie/cf413c6856d3c9317860c76025da9e8b.jpg", 
+                "actors": [
+                    {
+                        "name": "曼迪·摩尔", 
+                        "role": " Rapunzel", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ec1ef5fe89dc516ef548f43988cbdefc.jpg"
+                    }, 
+                    {
+                        "name": "约翰·C·赖利", 
+                        "role": " Ralph", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4b2ee97e715b6c966f4d8a98f44d10da.jpg"
+                    }, 
+                    {
+                        "name": "盖尔·加朵", 
+                        "role": " Shank", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6411a4e63a5c5788fa209fcf57246a9a.jpg"
+                    }, 
+                    {
+                        "name": "克里斯汀·贝尔", 
+                        "role": "Anna", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8adfb90619428249ff79cfa94d7d38ca.jpg"
+                    }
+                ], 
+                "director": "菲尔·约翰斯顿    瑞奇·摩尔", 
+                "category": "喜剧|动画|奇幻|冒险", 
+                "synopsis": "《无敌破坏王2：大闹互联网》从电玩世界来到了广阔、未知又激动人心的虚拟网络世界，而互联网世界能否经得住破坏？电玩游戏破坏王拉尔夫和调皮女孩云妮洛普冒险前往未知的网络世界，寻找可以修复《甜蜜冲刺》游戏的组件。他们需要在网民们的帮助下在网络世界中不断前行，在这过程中他们遇到了热门网站BuzzzTube的核心人物——充满企业家精神的耶丝小姐。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "美国", 
+                "language": "英语", 
+                "videoId": "XMzY0NTg0MzQxNg==", 
+                "premiereAt": 1542931200, 
+                "timeType": 3, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4455, 
+                "name": "忠犬大营救", 
+                "poster": "https://pic.maizuo.com/usr/movie/91851f4c0ba7d5020ff1b3e19aa3f8bc.jpg", 
+                "actors": [
+                    {
+                        "name": "靓仔 ", 
+                        "role": " 哈林", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0b26c338e01657b9dcb958a98023e52a.jpg"
+                    }, 
+                    {
+                        "name": "小金", 
+                        "role": " 幼年哈林  ", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/61ec185118a12697b81c733145edac1c.jpg"
+                    }, 
+                    {
+                        "name": " 刘晓晔", 
+                        "role": "顾晓月", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/846eb30f8dcea38a9690eb0ae5aa24e9.jpg"
+                    }, 
+                    {
+                        "name": "纪帅 ", 
+                        "role": "李哈林", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/509a88de3dfb549bdaa557691f89d9a2.jpg"
+                    }
+                ], 
+                "director": "张帆", 
+                "category": "剧情|爱情|冒险", 
+                "synopsis": "美女画家顾晓月（刘晓晔饰）收养了一只遭人遗弃的金毛犬哈林，在宠物医院李医生（纪帅饰）精心治疗和顾晓月的细心照料下，哈林很快恢复了健康并学会了做饭、拖地、拿拖鞋等家务活，哈林还勇敢地从小偷手里抢回了邻居失窃的钱包，为此它一夜成名。一次意外，哈林吞掉了盗窃头目基德（张山饰）的钻石，基德想方设法找到哈林意欲杀害。顾晓月和李医生怎样才能救出哈林？", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "汉语普通话", 
+                "videoId": "", 
+                "premiereAt": 1542931200, 
+                "timeType": 3, 
+                "runtime": 90, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4450, 
+                "name": "摘金奇缘", 
+                "poster": "https://pic.maizuo.com/usr/movie/754ddaacfdccbcea1639526123e313c7.jpg", 
+                "actors": [
+                    {
+                        "name": "杨紫琼", 
+                        "role": "Eleanor Young", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fe26bdb22798edfebc0ef653fc6252fe.jpg"
+                    }, 
+                    {
+                        "name": "吴恬敏", 
+                        "role": " Rachel Chu", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ac41ad4e9e15584843ad68fb4b52957d.jpg"
+                    }, 
+                    {
+                        "name": "亨利·戈尔丁", 
+                        "role": "Nick Young", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/be20ff048325786959f8d980d2723712.jpg"
+                    }, 
+                    {
+                        "name": " 嘉玛·陈", 
+                        "role": " Astrid Leong", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b62f9ebaf607f243d61da37d3af02190.jpg"
+                    }
+                ], 
+                "director": "朱浩伟", 
+                "category": "喜剧|爱情|英语", 
+                "synopsis": "纽约土生土长的朱丽秋（吴恬敏 饰）陪拍拖已久的男友杨力（亨利·戈尔丁 饰）回到新加坡参加死党婚礼。丽秋既为首次到亚洲旅行感到兴奋，同时亦因为要拜访杨力的家人而紧张。她在毫无准备的情况下得悉男友一直没有透露的身世……原来杨力不仅是新加坡首富的后人，亦是城中瞩目的“钻石王老 五”。身为女友的丽秋腹背受敌，不单只受到名媛的妒忌，还要面对杨力挑剔的母亲（杨紫琼 饰）阻拦。这一切都证明金钱虽然买不到爱情，却足以令事情变得非常复杂。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "美国", 
+                "language": "汉语普通话  粤语 ", 
+                "videoId": "XMzg5MjY2MTU1Mg==", 
+                "premiereAt": 1543536000, 
+                "timeType": 3, 
+                "runtime": 121, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4456, 
+                "name": "亡命救赎 ", 
+                "poster": "https://pic.maizuo.com/usr/movie/3a9febdd5b7352b64a180256bdc0f312.jpg", 
+                "actors": [
+                    {
+                        "name": " 让-弗朗西斯·瑞切", 
+                        "role": "导演", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e139e002891c4d931707b54007202525.jpg"
+                    }, 
+                    {
+                        "name": " 梅尔·吉布森", 
+                        "role": " Link", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ebdd2b394aba70c34d60b3c01ff5b48c.jpg"
+                    }, 
+                    {
+                        "name": " 艾琳·莫里亚蒂", 
+                        "role": " Lydia", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2870cf1b7be679eb8e510b5b96292775.jpg"
+                    }, 
+                    {
+                        "name": " 迭戈·卢纳 ", 
+                        "role": " Jonah", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1bfbb19ae339998c59ba864794de07fb.jpg"
+                    }
+                ], 
+                "director": " 让-弗朗西斯·瑞切", 
+                "category": "动作|犯罪", 
+                "synopsis": "Lydia很小的时候父亲就进了监狱，她从小和母亲生活在一起，但骨子里继承了父亲Link的基因，十分叛逆。一次闯下大祸后，Lydia走投无路联系到多年未曾见面的父亲，Link已经退隐江湖很多年，在拖车里以纹身为生。为了解决女儿的困境，他鼓起勇气挺起胸膛，以父亲的身份对决Jonah一行人，用鲜血为女儿换来了重生……", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "法国", 
+                "language": "英语  西班牙语", 
+                "videoId": "XMTU2NTg3NTA0OA==", 
+                "premiereAt": 1543536000, 
+                "timeType": 3, 
+                "runtime": 88, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4457, 
+                "name": "冒牌搭档 ", 
+                "poster": "https://pic.maizuo.com/usr/movie/4a2255e0254d38c4498388023d3c9881.jpg", 
+                "actors": [
+                    {
+                        "name": "林子聪", 
+                        "role": "巨星一哥   何家一", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8dbbd99062eba3406abd2e70467650d8.jpg"
+                    }, 
+                    {
+                        "name": " 艾晓琪", 
+                        "role": "汤子冰", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/fc18daf3972909810dead3ce1a86571f.jpg"
+                    }, 
+                    {
+                        "name": " 陈浩民", 
+                        "role": "钱浩南", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/526aefeb731fc76958024b144d9b61e4.jpg"
+                    }, 
+                    {
+                        "name": " 陈国坤", 
+                        "role": " 小龙", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/50b4ee074999b66de01aa51c229ce63f.jpg"
+                    }
+                ], 
+                "director": "林子聪   柯丁图", 
+                "category": "喜剧", 
+                "synopsis": "一帮穷困潦倒的黄金配角迫于现实的无奈，不得不找来快餐外卖员冒充大牌明星而闹出的一部酸喜剧。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": " 中国大陆", 
+                "language": " 粤语   汉语普通话", 
+                "videoId": "", 
+                "premiereAt": 1543536000, 
+                "timeType": 3, 
+                "runtime": 86, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": true, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4032, 
+                "name": "营救汪星人", 
+                "poster": "https://pic.maizuo.com/usr/movie/df162692c0ea5cec1d1bd659e3a3f2ba.jpg", 
+                "actors": [
+                    {
+                        "name": "成毅", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6fc24da5fe87a592f484e4ef404995b6.jpg"
+                    }, 
+                    {
+                        "name": "阿拉蕾", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8ad69966c17051b9b6756a5fbc604276.jpg"
+                    }, 
+                    {
+                        "name": "林雪", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4a5cb33d0369a0f8318fc5179631e7fb.jpg"
+                    }, 
+                    {
+                        "name": "文松", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f8c7afa7616a5cb94855fe04209c1bb3.jpg"
+                    }, 
+                    {
+                        "name": "欧弟", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/95884c4a19f2d771788f88ff472b2882.jpg"
+                    }
+                ], 
+                "director": "梁婷", 
+                "category": "喜剧|动作|冒险", 
+                "synopsis": "退役警犬训练员成斌，与其训练多年并立功无数的退役功勋缉毒犬拉布拉多——大雄，就职于一家五星级宠物俱乐部任店长，期间收养了十只流浪犬，把它们训练成身怀绝技的“神犬特工队”。宠物俱乐部三周年店庆派对，社区所有狗狗参加派对，并在当晚寄居于俱乐部内，未料第二天一早，街坊邻居的所有爱宠一夜之间全部失踪。爱和责任并存，成斌不得不带着大雄，展开了一场汪星人大营救。谁知在营救途中历经了“狗在囧途之速度与激情”后，又意外卷入犯罪团伙的毒品案中，被迫展开了一场惊心动魄的生死斗争。最后，成斌与“神犬特工队”智斗犯罪团伙，勇获全胜，一百多只汪星人重获自由。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "汉语普通话", 
+                "videoId": "XMzE2Mjc5NTc4OA==", 
+                "premiereAt": 1544140800, 
+                "timeType": 3, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 4452, 
+                "name": "绿毛怪格林奇", 
+                "poster": "https://pic.maizuo.com/usr/movie/1891d0998a35edb63731ffed973f07cb.jpg", 
+                "actors": [
+                    {
+                        "name": " 亚罗·切尼", 
+                        "role": "导演 ", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f7215d6642f6453c810ce0615c0ceadb.jpg"
+                    }, 
+                    {
+                        "name": "斯科特·摩西尔 ", 
+                        "role": " 导演", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/40da16dcd9dc5501ce2ef3f699f37295.jpg"
+                    }, 
+                    {
+                        "name": "本尼迪克特·康伯巴奇", 
+                        "role": "配音", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c01faa54410c921a8ba0552806a60828.jpg"
+                    }
+                ], 
+                "director": "亚罗·切尼|/|斯科特·摩西尔", 
+                "category": "喜剧|动画", 
+                "synopsis": "《圣诞怪杰》根据“苏斯博士”（Dr. Seuss）的著名畅销童书改编，故事主角是一个绿色的怪物格林奇（Grinch），他非常非常痛恨圣诞节，因为他是一个孤儿。为了不让人们过圣诞，他把所有圣诞礼物都偷走了。最后还是一个纯真的小女孩融化了他冷漠的心。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "美国", 
+                "language": "英语", 
+                "videoId": "XMzgyOTE5OTE4OA==", 
+                "premiereAt": 1544745600, 
+                "timeType": 3, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 2593, 
+                "name": "平安岛", 
+                "poster": "https://pic.maizuo.com/usr/100002593/3562674bb5a5103a2968909949bc1aaa.tmp", 
+                "actors": [
+                    {
+                        "name": "张允炫", 
+                        "role": "导演", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002593/beb93a2ceebb0208a72f7fbb26bf75df.jpg"
+                    }, 
+                    {
+                        "name": "黄立行", 
+                        "role": "张海明", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002593/248ab3348aa097664f50f1400eaeb3d0.jpg"
+                    }, 
+                    {
+                        "name": "焦俊艳", 
+                        "role": "刘佳", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002593/a1619f4f3b528556a2a0aaa74f61a000.jpg"
+                    }, 
+                    {
+                        "name": "热依扎", 
+                        "role": "杨卿", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002593/30415e96f25d7da57576c508b015e4b8.jpg"
+                    }
+                ], 
+                "director": "张允炫", 
+                "category": "悬疑|冒险|动作", 
+                "synopsis": "一个海洋考察团队在大海中进行宝藏勘探，一场暴风雨造成了巨大海难，将整艘船带至一个没有任何坐标的小岛上。为了完成上级安排的任务，研究团冒着危险进入岛屿，并发现隐藏在这座岛上的秘密。在岛上，他们遇见了一股神秘力量，令队友们一个又一个遭遇不测，他们面临着一场史无前例的大灾难。随着故事的一步步推进，神秘力量的面纱一层一层被揭开，最终揭穿了隐藏在这座岛上不为人知的秘密。而当秘密缓缓揭开时，他们将会面临怎样的大灾难？在这里他们将与欲望进行一场抉择和斗争。", 
+                "filmType": {
+                    "name": "3D", 
+                    "value": 2
+                }, 
+                "nation": "中国大陆  韩国  香港", 
+                "language": "汉语普通话", 
+                "videoId": "XMTI2OTQ5NjQxNg==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 92, 
+                "item": {
+                    "name": "3D", 
+                    "type": 2
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            },
+            {
+                "filmId": 3485, 
+                "name": "悟空圣诞奇遇记", 
+                "poster": "https://pic.maizuo.com/usr/100003485/3142d62674078e5c187eedd2cca9cfea.jpg", 
+                "director": "殷玉麒", 
+                "category": "喜剧|动画", 
+                "synopsis": "圣诞临近，天宫的小仙女们都布置起圣诞配饰，过上西方节日。 面子挂不住的玉帝授意下，悟空到人间驱逐圣诞老人，偶遇傻乎乎的驯鹿鲁道夫（替圣诞老人拉雪橇车的驯鹿）在城市中迷路，和收留鲁道夫的小女孩儿晶晶，废柴悟空和二货驯鹿一拍即合。因为一起暂住晶晶家。三人成为好朋友。 悟空要驱逐圣诞老人，鲁道夫要回到主人身边，晶晶要向圣诞老人祈祷，希望在美国工作的爸爸每到圣诞节和春节都回家团聚。三人各自因不同目的一起出发寻找圣诞老人。旅途中，发生很多误会和趣事，三人脾气相投友谊渐深。也因为经历很多事情，令悟空逐渐意识到圣诞老人以及中西方的所有节日，所代表的符号其实是一种对亲情的期待。其实中国与外国的节日，含义是一样的。 战神悟空逐渐转变认识，不知不觉身份转换，最后装扮成圣诞老人，解开晶晶的心结。 并在最后，为保护孩子们的爱和期待，不惜与天界一战", 
+                "filmType": {
+                    "name": "3D", 
+                    "value": 2
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "XMTg2Mjc3MzkxMg==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 90, 
+                "item": {
+                    "name": "3D", 
+                    "type": 2
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3671, 
+                "name": "克罗索巨兽", 
+                "poster": "https://pic.maizuo.com/usr/movie/3d2e3ea69153ac0920a5be4f684c9796.jpg", 
+                "actors": [
+                    {
+                        "name": "安妮·海瑟薇", 
+                        "role": "Gloria", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e3aa0aab9dfbc5cd147a3a906a426d5e.jpg"
+                    }, 
+                    {
+                        "name": "丹·史蒂文斯", 
+                        "role": "Tim", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b9702b1ce678748eea2d3b6946397572.jpg"
+                    }, 
+                    {
+                        "name": "杰森·苏戴奇斯", 
+                        "role": "Oscar", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/715aeafb0cea4d66d1e99df881ee7990.jpg"
+                    }, 
+                    {
+                        "name": "蒂姆·布雷克·尼尔森", 
+                        "role": "Garth", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c77729abdbe34e3dff00216000233ebd.jpg"
+                    }
+                ], 
+                "director": "那奇欧·维加隆多", 
+                "category": "动作|科幻|惊悚", 
+                "synopsis": "影片讲述一个在纽约丢了男友(史蒂文斯饰)失了工作的女人(海瑟薇饰)，回到老家后，无意间发现自己和某种怪兽有着诡异的联系。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "美国 加拿大 西班牙", 
+                "language": "英语", 
+                "videoId": "show/id_XMjUxNjA2NDc4MA==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 110, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3814, 
+                "name": "转型团伙", 
+                "poster": "https://pic.maizuo.com/usr/movie/15f21e87e75757195003c43924f01adc.jpg", 
+                "actors": [
+                    {
+                        "name": "吴镇宇", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/44f1fed878aacd57702e9e11c8e0c9e2.jpg"
+                    }, 
+                    {
+                        "name": "Feynman", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/58c8e7ca266c247b9fdf38eb8450184f.jpg"
+                    }, 
+                    {
+                        "name": "乔杉", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4155b75c69e78d3d34654cbf97e3619f.jpg"
+                    }, 
+                    {
+                        "name": "文松", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d0fd2046d4bc4ba98bbbedd18e3250b1.jpg"
+                    }
+                ], 
+                "director": "吴镇宇", 
+                "category": "剧情|喜剧|动作", 
+                "synopsis": "影片讲述一段过气影帝与当红童星因一场拍摄意外而陷入黑帮纷争的奇妙故事。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话 ", 
+                "videoId": "XMjgzNjEzMjk5Ng==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 90, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3820, 
+                "name": "搞怪奇妙夜", 
+                "poster": "https://pic.maizuo.com/usr/movie/06ba57ec4e66d62b1ce5ccb00f811e80.jpg", 
+                "actors": [
+                    {
+                        "name": "郑中基", 
+                        "role": "寇克", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ce82032efacf005328fdfd6be7bcfaa8.jpg"
+                    }, 
+                    {
+                        "name": "程波", 
+                        "role": "康凯", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b33585a5da04078b82da889d44050fb2.jpg"
+                    }, 
+                    {
+                        "name": "范逸臣", 
+                        "role": "胡大彪", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5faf59e3f83b3412decebbe3623e6419.jpg"
+                    }, 
+                    {
+                        "name": "九孔", 
+                        "role": "凯特刘", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6254e6d1f19620a54fa2614bd59a9951.jpg"
+                    }
+                ], 
+                "director": "雷金克", 
+                "category": "剧情|喜剧", 
+                "synopsis": "电影《搞怪奇妙夜》讲述的是一个不学无术的小混混寇克（郑中基饰）与郁郁不得志却立志开修车店的修车工康凯（程波饰）这对难兄难弟为了躲避黑社会小头目龙哥（田启文饰）的追债，阴差阳错的接了一单颇有挑战性的任务。与此同时一个图谋不轨，声称自己是“国际大盗”的凯特刘（九孔饰）也应黑社会老大胡大彪（范逸臣饰）的邀请去来做一单买卖。夜色的掩护中，寇克、凯特刘、胡大彪胡大明两兄弟、神经双胞胎姐妹、胡老爷等几波势力纷纷聚集。惊悚，搞怪，爆笑的突发事件层出不穷，令所有人都措手不及。几方混战，不知是陷阱还是馅饼？到底谁才是真正的幕后受益者？", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 96, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3822, 
+                "name": "6E班", 
+                "poster": "https://pic.maizuo.com/usr/movie/f17d2f146aaca5bf1c30928e90f790f1.jpg", 
+                "actors": [
+                    {
+                        "name": "孙耀威 ", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/24638741f086319b16074c9f20c230f1.jpg"
+                    }, 
+                    {
+                        "name": "黄奕", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/61072819aebb017bd3c62adf31ecf98e.jpg"
+                    }, 
+                    {
+                        "name": "麦长青", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/be4f2a9ffb2e8fe38db013dea9730ca7.jpg"
+                    }, 
+                    {
+                        "name": "叶芷如", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/85b5c05e1b91d95ad59d4de15fba4c09.jpg"
+                    }
+                ], 
+                "director": "冼国林", 
+                "category": "剧情|爱情", 
+                "synopsis": "屯门区有一所另类的「国际学校」名叫励志中学。这「国际学校」并非一般所指的贵族学校，而是一所「收容」了超过70% Non-Chinese Students(NCS）的BAND 3中学。励志的学生以南亚裔为主（印巴、尼泊尔），少数鬼仔鬼妹/混血儿/泰非印尼等，还有20-30%华语学生，其中包括内地新移民子弟或成绩较差的本地学生。多元文化差异、学生能力参差不齐，来自不同学校的插班生，学生操行问题、教学支援不足等恶劣条件，令学校师生间气氛长期处在紧张状态，校长和教师心疲力竭。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "香港 中国大陆", 
+                "language": "粤语", 
+                "videoId": "XMjkyMzI5OTY5Ng==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3867, 
+                "name": "这位壮士", 
+                "poster": "https://pic.maizuo.com/usr/movie/994b808088f830c66897a08318a9456b.jpg", 
+                "actors": [
+                    {
+                        "name": "秦昊", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d90467df88bcf09d8c4c2db502c88a15.jpg"
+                    }, 
+                    {
+                        "name": "文松", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/59252af16909f3dad1494c84263d22e4.jpg"
+                    }, 
+                    {
+                        "name": "谢楠", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/29de05b56ee08bc59c7e35c64f5ba4ff.jpg"
+                    }, 
+                    {
+                        "name": "冷中易", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2830a05232788388f76359ea5f48b24f.jpg"
+                    }
+                ], 
+                "director": "", 
+                "category": "喜剧", 
+                "synopsis": "故事围绕卷入拆迁风波的一众小人物展开，笑料十足，预计将于今年暑期登陆大银幕。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "XMjcxNjMxODc1Mg==", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3879, 
+                "name": "死党", 
+                "poster": "https://pic.maizuo.com/usr/movie/b7b8cfc02b7b574ccf3135b817f6ac7d.jpg", 
+                "actors": [
+                    {
+                        "name": "万国鹏", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/60cb509b2999ac93fe09b2da7fab3c45.jpg"
+                    }, 
+                    {
+                        "name": "王婷", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4bafeafa1053ed51417efbe02b57eb04.jpg"
+                    }, 
+                    {
+                        "name": "王泷正", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/48472416dc5274cef3775810ab6e754d.jpg"
+                    }, 
+                    {
+                        "name": "黄诗棋", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1f3824fc50c443b379fcc9968cbb7a2e.jpg"
+                    }, 
+                    {
+                        "name": "丁子迪", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/793043f7be8e663f1c56bc1f1badaccc.jpg"
+                    }
+                ], 
+                "director": "易成松", 
+                "category": "剧情|悬疑|犯罪", 
+                "synopsis": "电影《死党》取材于大学生中毒的社会热点事件，讲述女大学生牛玲因中毒而导致瘫痪的严重后果，然而迷雾重重，是谁造成的伤害至今没有任何定论，只是家里总会收到神秘的汇款。这五年来，牛玲的弟弟牛大泽为了赚钱养家、给姐姐治病，在大城市里白天送快递，晚上送外卖，已经被贫困的生活压得喘不过气……这让人压抑的生活让他想到必须做点什么，给姐姐讨个说法，也是给自己一个交代。于是，寻找真相的故事因一条意外的获奖新闻开始了……", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3921, 
+                "name": "枪炮腰花", 
+                "poster": "https://pic.maizuo.com/usr/movie/a0fa1a9f00ecd20d191866a7da1a53b1.jpg", 
+                "actors": [
+                    {
+                        "name": "王千源", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ee5f0424e9a68d7f8a55183ff23e874a.jpg"
+                    }, 
+                    {
+                        "name": "黄景瑜", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/01a515a66f9608cd28f1ac40564805ba.jpg"
+                    }, 
+                    {
+                        "name": "张亮", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/9d0c1aa6e4d26ea5d87557223ac36e3f.jpg"
+                    }, 
+                    {
+                        "name": "陈意涵", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/387b0e895d72fae5d8548fdad1ef284a.jpg"
+                    }, 
+                    {
+                        "name": "张蓝心", 
+                        "role": "", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2b4a8b8445dcc8db871eaf7adee32623.jpg"
+                    }
+                ], 
+                "director": "张猛", 
+                "category": "剧情|喜剧", 
+                "synopsis": "纨绔青年阿蒙（黄景瑜饰）为躲债回到老家，发现这里成为荒废的工业区。偶然得知一个国际剧组正在寻找这样的外景地，于是联合经营“枪炮腰花”烧烤店老范（王千源饰）一起揽活，从中捞油水。然而开发商老三（张亮饰）也瞄中这块处女地，他的闯入改变了阿蒙和老范原本天衣无缝的造景计划....", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "汉语普通话", 
+                "videoId": "", 
+                "premiereAt": 1546300800, 
+                "timeType": 1, 
+                "runtime": 100, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 2967, 
+                "name": "三体", 
+                "poster": "https://pic.maizuo.com/usr/100002967/dae35f7166d08d87941b5ba4c51dc9e0.jpg", 
+                "actors": [
+                    {
+                        "name": "张翰", 
+                        "role": "潘寒", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002967/20969407618db7438387ed0a468eec7c.jpg"
+                    }, 
+                    {
+                        "name": "张静初", 
+                        "role": "叶文洁", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002967/00d8c890db91c8d039c143c9d3e79af4.jpg"
+                    }, 
+                    {
+                        "name": "冯绍峰", 
+                        "role": "汪淼", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002967/f3021ac5aa9881b2278631f5a8d20fb0.jpg"
+                    }, 
+                    {
+                        "name": "唐嫣", 
+                        "role": "申玉菲", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002967/e3926990af2e62f54ad5b862bee3479b.jpg"
+                    }, 
+                    {
+                        "name": "吴刚", 
+                        "role": "史强", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100002967/0dd1a4ad8899ce6465fc00738daaa0a2.jpg"
+                    }
+                ], 
+                "director": "张番番", 
+                "category": "科幻", 
+                "synopsis": "2020年，数百名物理学家死于非命；中国专家汪淼的眼中也出现倒计时，随后发现一款游戏中一个在三日下煎熬的“灾难星球”竟真实存在，那里的“三体文明”400年后即将达到地球；一场未来的浩劫摆在人类面前……", 
+                "filmType": {
+                    "name": "3D", 
+                    "value": 2
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "XODM5OTI3Njky", 
+                "premiereAt": 1577836800, 
+                "timeType": 1, 
+                "runtime": 176, 
+                "item": {
+                    "name": "3D", 
+                    "type": 2
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }, 
+            {
+                "filmId": 3122, 
+                "name": "奇妙的朋友之萌爱2016", 
+                "poster": "https://pic.maizuo.com/usr/100003122/2b3feda2cc7c9285ea54d61b852aedb6.jpg", 
+                "actors": [
+                    {
+                        "name": "李宇春", 
+                        "role": "李宇春", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/f9c432f693881891209e9f696de323ed.jpg"
+                    }, 
+                    {
+                        "name": "黄轩", 
+                        "role": "黄轩", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/42a1d2ee136a263eed511f8283c3dc06.jpg"
+                    }, 
+                    {
+                        "name": "胡杏儿", 
+                        "role": "胡杏儿", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/5c05cf5748bac12091c17a65c4909e2f.jpg"
+                    }, 
+                    {
+                        "name": "杜海涛", 
+                        "role": "赵大海", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/1e0907738f8a3da74a22f2a4cace4654.jpg"
+                    }, 
+                    {
+                        "name": "郭艳", 
+                        "role": "李冰", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/4fc2ed994174f9c3c7358a6764347d55.jpg"
+                    }, 
+                    {
+                        "name": "杜天皓", 
+                        "role": "杜天皓", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/5f66ca3696f18658775f327d8db919df.jpg"
+                    }, 
+                    {
+                        "name": "高泰宇", 
+                        "role": "梁鑫", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/4bc76d5c4b83fde35126f73bebf2bfa3.jpg"
+                    }, 
+                    {
+                        "name": "林雪", 
+                        "role": "花哥", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003122/c9480a56f72a8720316f7143d1ddf880.jpg"
+                    }
+                ], 
+                "director": "张全欣", 
+                "category": "剧情|喜剧", 
+                "synopsis": "影片讲述了经纪初哥赵大海（杜海涛饰）接到一个任务：带领李宇春、倪妮、黄轩、胡杏儿、杜天皓五位明星前往自然保护区担任动物保护大使。               伴随着区内举世瞩目的熊猫三胞胎的诞生，明星大使倍感兴奋。其后，大海及明星在动物世界中逐渐成长并收获友情，与此同时，区外居然有人觊觎熊猫三宝。              于是一方虎视眈眈盗取国宝，一方联手合作紧张营救，双方各种斗智斗勇，期间不断发生险象环生而又充满萌趣的故事。", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "中国大陆", 
+                "language": "普通话", 
+                "videoId": "", 
+                "premiereAt": 1577836800, 
+                "timeType": 1, 
+                "runtime": 90, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            },
+            {
+                "filmId": 3451, 
+                "name": "阿凡达2", 
+                "poster": "https://pic.maizuo.com/usr/100003451/00401aeead9cb5020bd5166c2909c32a.jpg", 
+                "actors": [
+                    {
+                        "name": "萨姆·沃辛顿", 
+                        "role": "杰克·萨利", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/df050071a829cb47d7612e1e4c3f8b37.jpg"
+                    }, 
+                    {
+                        "name": "佐伊·索尔达娜", 
+                        "role": "奈蒂莉", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/a457d0e419128720688a6d11712db4b4.jpg"
+                    }, 
+                    {
+                        "name": "西格妮·韦弗", 
+                        "role": "格蕾丝·奥格斯", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/2ebc1d29d21743c960de288930921814.jpg"
+                    }, 
+                    {
+                        "name": "史蒂芬·朗", 
+                        "role": "迈尔斯·夸奇上校", 
+                        "avatarAddress": "https://pic.maizuo.com/usr/100003451/368a975d10ee8e0bf30b5d5906fb6527.jpg"
+                    }
+                ], 
+                "director": "詹姆斯·卡梅隆", 
+                "category": "动作|科幻|奇幻|冒险", 
+                "synopsis": "《阿凡达2》的剧情承接自第一部的5年之后。曾经的地球残疾军人杰克·萨利，如今已经是潘多拉星球纳美族一方部族的族长，并且与爱妻娜塔莉共同育有一对可爱的儿女，日子过得平淡而充实。然而某天，有个部族的兄弟在海岸附近巡逻时遭到利器割喉身亡。通过现场勘查，以及作为前海军陆战队员的敏锐直觉，杰克判断已经有人类的阿凡达混入了部落……", 
+                "filmType": {
+                    "name": "2D", 
+                    "value": 1
+                }, 
+                "nation": "美国", 
+                "language": "英语", 
+                "videoId": "", 
+                "premiereAt": 1608249600, 
+                "timeType": 3, 
+                "runtime": 90, 
+                "item": {
+                    "name": "2D", 
+                    "type": 1
+                }, 
+                "isPresale": false, 
+                "isSale": false
+            }
+        ], 
+        "total": 21
+    }, 
+    "msg": "ok"
+}

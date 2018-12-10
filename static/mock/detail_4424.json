@@ -1,0 +1,53 @@
+{
+	"status": 0,
+	"data": {
+		"film": {
+			"filmId": 4424,
+			"name": "毒液：致命守护者",
+			"poster": "https://pic.maizuo.com/usr/movie/b6da3092e1bf9ec575882212450bce0a.jpg",
+			"actors": [{
+				"name": "汤姆·哈迪",
+				"role": "埃迪·布洛克 / 毒液",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8d65dc2e228ddce683d2aa1eacd516bd.jpg"
+			}, {
+				"name": "里兹·阿迈德 ",
+				"role": "德雷克博士",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/8a28f9e7fef8c34577e131be81b00426.jpg"
+			}, {
+				"name": " 米歇尔·威廉姆斯 ",
+				"role": "安妮·韦英 ",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/b623d05f6b4ad819cbac8c4d98446fe6.jpg"
+			}, {
+				"name": " 斯科特·黑兹",
+				"role": "",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/c638a5209dfd71f6e5792b5be98a1d9c.jpg"
+			}, {
+				"name": "瑞德·斯科特 ",
+				"role": "Patrick Mulligan",
+				"avatarAddress": "https://pic.maizuo.com/usr/movie/6580896dac2546a0cbdde69e9d9a2cec.jpg"
+			}],
+			"director": "鲁本·弗雷斯彻",
+			"category": "动作 | 科幻 | 惊悚",
+			"synopsis": "曾主演《敦刻尔克》《盗梦空间》等口碑大片的肌肉型男汤姆·哈迪在本片中饰演“毒液”的宿主–埃迪·布洛克。身为记者的埃迪在调查生命基金会老板卡尔顿·德雷克（里兹·阿迈德饰）的过程中，事业遭受重创，与未婚妻安妮·韦英（米歇尔·威廉姆斯饰）的关系岌岌可危，并意外被外星共生体入侵，历经挣扎对抗，最终成为拥有强大超能力，无人可挡的“毒液”。",
+			"filmType": {
+				"name": "IMAX3D",
+				"value": 17
+			},
+			"nation": "美国 ",
+			"language": "英语",
+			"videoId": "XMzgyNjMyNDM4OA==",
+			"premiereAt": 1541721600,
+			"timeType": 3,
+			"runtime": 112,
+			"photos": ["https://pic.maizuo.com/usr/100004424/09382bab792f57c76dd65e50a4ff6023.jpg", "https://pic.maizuo.com/usr/100004424/1c897039f83af517066d3f79830c7085.jpg", "https://pic.maizuo.com/usr/100004424/cf9c2e196fe2ce633ae87bb1f65f7873.jpg", "https://pic.maizuo.com/usr/100004424/d15693a0ee9c228f73a6684c6a73c667.jpg", "https://pic.maizuo.com/usr/100004424/daa42b1e8d58c078f9dc2a60faabb3d3.jpg", "https://pic.maizuo.com/usr/100004424/f9da4093033cad4806457d10a4f987ff.jpg"],
+			"grade": "7.3",
+			"item": {
+				"name": "IMAX3D",
+				"type": 17
+			},
+			"isPresale": false,
+			"isSale": true
+		}
+	},
+	"msg": "ok"
+}

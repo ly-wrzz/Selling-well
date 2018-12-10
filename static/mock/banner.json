@@ -1,0 +1,42 @@
+{
+    "status": 0, 
+    "data": [
+        {
+            "bannerId": 30, 
+            "imgUrl": "https://static.maizuo.com/v5/upload/8f77f00793782bf587a8ff7232c0ee1c.jpg", 
+            "actionType": 2, 
+            "actionData": "{\"url\":\"https://m.maizuo.com/mz-act/active/riiSpH154457\"}", 
+            "masterTitle": "", 
+            "slaveTitle": "", 
+            "bindBusinessId": ""
+        }, 
+        {
+            "bannerId": 25, 
+            "imgUrl": "https://static.maizuo.com/v5/upload/478f917b25402c3078dd0ba656243be8.jpg", 
+            "actionType": 2, 
+            "actionData": "{\"url\":\"https://m.maizuo.com/mz-act/active/mjjznA935098\"}", 
+            "masterTitle": "", 
+            "slaveTitle": "", 
+            "bindBusinessId": ""
+        }, 
+        {
+            "bannerId": 28, 
+            "imgUrl": "https://static.maizuo.com/v5/upload/f8021d4b9f5471aeb4c0098262e05026.jpg", 
+            "actionType": 2, 
+            "actionData": "{\"url\":\"https://m.sdyxmall.com/act/active/WmDkBb286561\"}", 
+            "masterTitle": "", 
+            "slaveTitle": "", 
+            "bindBusinessId": ""
+        }, 
+        {
+            "bannerId": 29, 
+            "imgUrl": "https://static.maizuo.com/v5/upload/89317c60f1a9d855e5f8a015c1e8ca15.jpg", 
+            "actionType": 2, 
+            "actionData": "{\"url\":\"http://mp.weixin.qq.com/s?__biz=MjM5NzEzNTEyMA==&mid=505450982&idx=1&sn=314be6ee3d2c59a56b40500536fbc0ec&chksm=3d0aa7990a7d2e8fc95e2cdb5f4002dae066b9da0e8768fbe5191bd5d108e3c1d89dfc687531#rd\"}", 
+            "masterTitle": "", 
+            "slaveTitle": "", 
+            "bindBusinessId": ""
+        }
+    ], 
+    "msg": "success"
+}
